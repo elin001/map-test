@@ -1,0 +1,236 @@
+result_id,full_name,last_name,incumbent,party,race_id,office_title,district,county_id,location,multiple_seats,vote_count,vote_percent,precincts_reporting,precincts_total,precincts_percent_reporting,winner,electoral_votes
+AP-0-polid-167861-state-2,Peter Sonski,Sonski,False,ASP,AP-0,President,,,AK,,0,0.0,0,403,0.0,False,0
+AP-0-polid-61513-state-2,Randall Terry,Terry,False,CST,AP-0,President,,,AK,,0,0.0,0,403,0.0,False,0
+AP-0-polid-64984-state-2,Kamala Harris,Harris,False,DFL,AP-0,President,,,AK,,0,0.0,0,403,0.0,False,0
+AP-0-polid-69459-state-2,Chase Oliver,Oliver,False,Lib,AP-0,President,,,AK,,0,0.0,0,403,0.0,False,0
+AP-0-polid-71841-state-2,Robert Kennedy,Kennedy,False,PEC,AP-0,President,,,AK,,0,0.0,0,403,0.0,False,0
+AP-0-polid-71845-state-2,Cornel West,West,False,Aur,AP-0,President,,,AK,,0,0.0,0,403,0.0,False,0
+AP-0-polid-8639-state-2,Donald Trump,Trump,False,R,AP-0,President,,,AK,,0,0.0,0,403,0.0,False,0
+AP-0-polid-895-state-2,Jill Stein,Stein,False,PEC,AP-0,President,,,AK,,0,0.0,0,403,0.0,False,0
+AP-0-polid-64984-state-1,Kamala Harris,Harris,False,DFL,AP-0,President,,,AL,,0,0.0,0,2028,0.0,False,0
+AP-0-polid-69459-state-1,Chase Oliver,Oliver,False,Ind,AP-0,President,,,AL,,0,0.0,0,2028,0.0,False,0
+AP-0-polid-71841-state-1,Robert Kennedy,Kennedy,False,Ind,AP-0,President,,,AL,,0,0.0,0,2028,0.0,False,0
+AP-0-polid-8639-state-1,Donald Trump,Trump,False,R,AP-0,President,,,AL,,0,0.0,0,2028,0.0,False,0
+AP-0-polid-895-state-1,Jill Stein,Stein,False,Ind,AP-0,President,,,AL,,0,0.0,0,2028,0.0,False,0
+AP-0-polid-167861-state-4,Peter Sonski,Sonski,False,ASP,AP-0,President,,,AR,,0,0.0,0,2790,0.0,False,0
+AP-0-polid-64984-state-4,Kamala Harris,Harris,False,DFL,AP-0,President,,,AR,,0,0.0,0,2790,0.0,False,0
+AP-0-polid-69459-state-4,Chase Oliver,Oliver,False,Lib,AP-0,President,,,AR,,0,0.0,0,2790,0.0,False,0
+AP-0-polid-71841-state-4,Robert Kennedy,Kennedy,False,Ind,AP-0,President,,,AR,,0,0.0,0,2790,0.0,False,0
+AP-0-polid-8639-state-4,Donald Trump,Trump,False,R,AP-0,President,,,AR,,0,0.0,0,2790,0.0,False,0
+AP-0-polid-895-state-4,Jill Stein,Stein,False,Grn,AP-0,President,,,AR,,0,0.0,0,2790,0.0,False,0
+AP-0-polid-168059-state-4,Michael Wood,Wood,False,Pro,AP-0,President,,,AR,,0,0.0,0,2790,0.0,False,0
+AP-0-polid-64984-state-3,Kamala Harris,Harris,False,DFL,AP-0,President,,,AZ,,0,0.0,0,1735,0.0,False,0
+AP-0-polid-69459-state-3,Chase Oliver,Oliver,False,Lib,AP-0,President,,,AZ,,0,0.0,0,1735,0.0,False,0
+AP-0-polid-8639-state-3,Donald Trump,Trump,False,R,AP-0,President,,,AZ,,0,0.0,0,1735,0.0,False,0
+AP-0-polid-895-state-3,Jill Stein,Stein,False,Grn,AP-0,President,,,AZ,,0,0.0,0,1735,0.0,False,0
+AP-0-polid-64984-state-5,Kamala Harris,Harris,False,DFL,AP-0,President,,,CA,,0,0.0,0,25714,0.0,False,0
+AP-0-polid-69459-state-5,Chase Oliver,Oliver,False,Lib,AP-0,President,,,CA,,0,0.0,0,25714,0.0,False,0
+AP-0-polid-71841-state-5,Robert Kennedy,Kennedy,False,AIP,AP-0,President,,,CA,,0,0.0,0,25714,0.0,False,0
+AP-0-polid-73180-state-5,Claudia De la Cruz,De la Cruz,False,PFP,AP-0,President,,,CA,,0,0.0,0,25714,0.0,False,0
+AP-0-polid-8639-state-5,Donald Trump,Trump,False,R,AP-0,President,,,CA,,0,0.0,0,25714,0.0,False,0
+AP-0-polid-895-state-5,Jill Stein,Stein,False,Grn,AP-0,President,,,CA,,0,0.0,0,25714,0.0,False,0
+AP-0-polid-61513-state-6,Randall Terry,Terry,False,AmC,AP-0,President,,,CO,,0,0.0,0,2567,0.0,False,0
+AP-0-polid-64984-state-6,Kamala Harris,Harris,False,DFL,AP-0,President,,,CO,,0,0.0,0,2567,0.0,False,0
+AP-0-polid-69443-state-6,Blake Huber,Huber,False,AVP,AP-0,President,,,CO,,0,0.0,0,2567,0.0,False,0
+AP-0-polid-69459-state-6,Chase Oliver,Oliver,False,Lib,AP-0,President,,,CO,,0,0.0,0,2567,0.0,False,0
+AP-0-polid-71841-state-6,Robert Kennedy,Kennedy,False,Una,AP-0,President,,,CO,,0,0.0,0,2567,0.0,False,0
+AP-0-polid-71845-state-6,Cornel West,West,False,Uty,AP-0,President,,,CO,,0,0.0,0,2567,0.0,False,0
+AP-0-polid-8639-state-6,Donald Trump,Trump,False,R,AP-0,President,,,CO,,0,0.0,0,2567,0.0,False,0
+AP-0-polid-895-state-6,Jill Stein,Stein,False,Grn,AP-0,President,,,CO,,0,0.0,0,2567,0.0,False,0
+AP-0-polid-64984-state-7,Kamala Harris,Harris,False,DFL,AP-0,President,,,CT,,0,0.0,0,732,0.0,False,0
+AP-0-polid-69459-state-7,Chase Oliver,Oliver,False,Lib,AP-0,President,,,CT,,0,0.0,0,732,0.0,False,0
+AP-0-polid-8639-state-7,Donald Trump,Trump,False,R,AP-0,President,,,CT,,0,0.0,0,732,0.0,False,0
+AP-0-polid-895-state-7,Jill Stein,Stein,False,Grn,AP-0,President,,,CT,,0,0.0,0,732,0.0,False,0
+AP-0-polid-1968-state-8,Vermin Supreme,Supreme,False,Con,AP-0,President,,,DE,,0,0.0,0,531,0.0,False,0
+AP-0-polid-64984-state-8,Kamala Harris,Harris,False,DFL,AP-0,President,,,DE,,0,0.0,0,531,0.0,False,0
+AP-0-polid-69459-state-8,Chase Oliver,Oliver,False,Lib,AP-0,President,,,DE,,0,0.0,0,531,0.0,False,0
+AP-0-polid-71841-state-8,Robert Kennedy,Kennedy,False,IPD,AP-0,President,,,DE,,0,0.0,0,531,0.0,False,0
+AP-0-polid-8639-state-8,Donald Trump,Trump,False,R,AP-0,President,,,DE,,0,0.0,0,531,0.0,False,0
+AP-0-polid-167861-state-10,Peter Sonski,Sonski,False,ASP,AP-0,President,,,FL,,0,0.0,0,5631,0.0,False,0
+AP-0-polid-61513-state-10,Randall Terry,Terry,False,CST,AP-0,President,,,FL,,0,0.0,0,5631,0.0,False,0
+AP-0-polid-64984-state-10,Kamala Harris,Harris,False,DFL,AP-0,President,,,FL,,0,0.0,0,5631,0.0,False,0
+AP-0-polid-69459-state-10,Chase Oliver,Oliver,False,Lib,AP-0,President,,,FL,,0,0.0,0,5631,0.0,False,0
+AP-0-polid-73180-state-10,Claudia De la Cruz,De la Cruz,False,PSL,AP-0,President,,,FL,,0,0.0,0,5631,0.0,False,0
+AP-0-polid-8639-state-10,Donald Trump,Trump,False,R,AP-0,President,,,FL,,0,0.0,0,5631,0.0,False,0
+AP-0-polid-895-state-10,Jill Stein,Stein,False,Grn,AP-0,President,,,FL,,0,0.0,0,5631,0.0,False,0
+AP-0-polid-64984-state-11,Kamala Harris,Harris,False,DFL,AP-0,President,,,GA,,0,0.0,0,2715,0.0,False,0
+AP-0-polid-69459-state-11,Chase Oliver,Oliver,False,Lib,AP-0,President,,,GA,,0,0.0,0,2715,0.0,False,0
+AP-0-polid-8639-state-11,Donald Trump,Trump,False,R,AP-0,President,,,GA,,0,0.0,0,2715,0.0,False,0
+AP-0-polid-895-state-11,Jill Stein,Stein,False,Grn,AP-0,President,,,GA,,0,0.0,0,2715,0.0,False,0
+AP-0-polid-167861-state-12,Peter Sonski,Sonski,False,ASP,AP-0,President,,,HI,,0,0.0,0,39,0.0,False,0
+AP-0-polid-64984-state-12,Kamala Harris,Harris,False,DFL,AP-0,President,,,HI,,0,0.0,0,39,0.0,False,0
+AP-0-polid-69459-state-12,Chase Oliver,Oliver,False,Lib,AP-0,President,,,HI,,0,0.0,0,39,0.0,False,0
+AP-0-polid-73180-state-12,Claudia De la Cruz,De la Cruz,False,PSL,AP-0,President,,,HI,,0,0.0,0,39,0.0,False,0
+AP-0-polid-8639-state-12,Donald Trump,Trump,False,R,AP-0,President,,,HI,,0,0.0,0,39,0.0,False,0
+AP-0-polid-895-state-12,Jill Stein,Stein,False,Grn,AP-0,President,,,HI,,0,0.0,0,39,0.0,False,0
+AP-0-polid-64984-state-16,Kamala Harris,Harris,False,DFL,AP-0,President,,,IA,,0,0.0,0,1680,0.0,False,0
+AP-0-polid-69459-state-16,Chase Oliver,Oliver,False,Lib,AP-0,President,,,IA,,0,0.0,0,1680,0.0,False,0
+AP-0-polid-71841-state-16,Robert Kennedy,Kennedy,False,WTP,AP-0,President,,,IA,,0,0.0,0,1680,0.0,False,0
+AP-0-polid-73180-state-16,Claudia De la Cruz,De la Cruz,False,PSL,AP-0,President,,,IA,,0,0.0,0,1680,0.0,False,0
+AP-0-polid-8639-state-16,Donald Trump,Trump,False,R,AP-0,President,,,IA,,0,0.0,0,1680,0.0,False,0
+AP-0-polid-167895-state-16,Shiva Ayyadurai,Ayyadurai,False,NPA,AP-0,President,,,IA,,0,0.0,0,1680,0.0,False,0
+AP-0-polid-167896-state-16,William Stodden,Stodden,False,SPU,AP-0,President,,,IA,,0,0.0,0,1680,0.0,False,0
+AP-0-polid-167871-state-13,Joel Skousen,Skousen,False,CST,AP-0,President,,,ID,,0,0.0,0,975,0.0,False,0
+AP-0-polid-167895-state-13,Shiva Ayyadurai,Ayyadurai,False,Ind,AP-0,President,,,ID,,0,0.0,0,975,0.0,False,0
+AP-0-polid-61513-state-13,Randall Terry,Terry,False,Ind,AP-0,President,,,ID,,0,0.0,0,975,0.0,False,0
+AP-0-polid-64984-state-13,Kamala Harris,Harris,False,DFL,AP-0,President,,,ID,,0,0.0,0,975,0.0,False,0
+AP-0-polid-69459-state-13,Chase Oliver,Oliver,False,Lib,AP-0,President,,,ID,,0,0.0,0,975,0.0,False,0
+AP-0-polid-71841-state-13,Robert Kennedy,Kennedy,False,Ind,AP-0,President,,,ID,,0,0.0,0,975,0.0,False,0
+AP-0-polid-73180-state-13,Claudia De la Cruz,De la Cruz,False,Ind,AP-0,President,,,ID,,0,0.0,0,975,0.0,False,0
+AP-0-polid-8639-state-13,Donald Trump,Trump,False,R,AP-0,President,,,ID,,0,0.0,0,975,0.0,False,0
+AP-0-polid-895-state-13,Jill Stein,Stein,False,Ind,AP-0,President,,,ID,,0,0.0,0,975,0.0,False,0
+AP-0-polid-64984-state-14,Kamala Harris,Harris,False,DFL,AP-0,President,,,IL,,0,0.0,0,8616,0.0,False,0
+AP-0-polid-71841-state-14,Robert Kennedy,Kennedy,False,Ind,AP-0,President,,,IL,,0,0.0,0,8616,0.0,False,0
+AP-0-polid-8639-state-14,Donald Trump,Trump,False,R,AP-0,President,,,IL,,0,0.0,0,8616,0.0,False,0
+AP-0-polid-64984-state-15,Kamala Harris,Harris,False,DFL,AP-0,President,,,IN,,0,0.0,0,5147,0.0,False,0
+AP-0-polid-69459-state-15,Chase Oliver,Oliver,False,Lib,AP-0,President,,,IN,,0,0.0,0,5147,0.0,False,0
+AP-0-polid-71841-state-15,Robert Kennedy,Kennedy,False,WTP,AP-0,President,,,IN,,0,0.0,0,5147,0.0,False,0
+AP-0-polid-8639-state-15,Donald Trump,Trump,False,R,AP-0,President,,,IN,,0,0.0,0,5147,0.0,False,0
+AP-0-polid-64984-state-17,Kamala Harris,Harris,False,DFL,AP-0,President,,,KS,,0,0.0,0,4118,0.0,False,0
+AP-0-polid-69459-state-17,Chase Oliver,Oliver,False,Lib,AP-0,President,,,KS,,0,0.0,0,4118,0.0,False,0
+AP-0-polid-71841-state-17,Robert Kennedy,Kennedy,False,Una,AP-0,President,,,KS,,0,0.0,0,4118,0.0,False,0
+AP-0-polid-8639-state-17,Donald Trump,Trump,False,R,AP-0,President,,,KS,,0,0.0,0,4118,0.0,False,0
+AP-0-polid-167895-state-18,Shiva Ayyadurai,Ayyadurai,False,Ind,AP-0,President,,,KY,,0,0.0,0,3233,0.0,False,0
+AP-0-polid-64984-state-18,Kamala Harris,Harris,False,DFL,AP-0,President,,,KY,,0,0.0,0,3233,0.0,False,0
+AP-0-polid-69459-state-18,Chase Oliver,Oliver,False,Lib,AP-0,President,,,KY,,0,0.0,0,3233,0.0,False,0
+AP-0-polid-71841-state-18,Robert Kennedy,Kennedy,False,Ind,AP-0,President,,,KY,,0,0.0,0,3233,0.0,False,0
+AP-0-polid-8639-state-18,Donald Trump,Trump,False,R,AP-0,President,,,KY,,0,0.0,0,3233,0.0,False,0
+AP-0-polid-895-state-18,Jill Stein,Stein,False,Oth,AP-0,President,,,KY,,0,0.0,0,3233,0.0,False,0
+AP-0-polid-167760-state-19,Rachele Fruit,Fruit,False,SWP,AP-0,President,,,LA,,0,0.0,0,3805,0.0,False,0
+AP-0-polid-61513-state-19,Randall Terry,Terry,False,CST,AP-0,President,,,LA,,0,0.0,0,3805,0.0,False,0
+AP-0-polid-64984-state-19,Kamala Harris,Harris,False,DFL,AP-0,President,,,LA,,0,0.0,0,3805,0.0,False,0
+AP-0-polid-69459-state-19,Chase Oliver,Oliver,False,Lib,AP-0,President,,,LA,,0,0.0,0,3805,0.0,False,0
+AP-0-polid-71841-state-19,Robert Kennedy,Kennedy,False,WTP,AP-0,President,,,LA,,0,0.0,0,3805,0.0,False,0
+AP-0-polid-71845-state-19,Cornel West,West,False,JfA,AP-0,President,,,LA,,0,0.0,0,3805,0.0,False,0
+AP-0-polid-73180-state-19,Claudia De la Cruz,De la Cruz,False,SCL,AP-0,President,,,LA,,0,0.0,0,3805,0.0,False,0
+AP-0-polid-8639-state-19,Donald Trump,Trump,False,R,AP-0,President,,,LA,,0,0.0,0,3805,0.0,False,0
+AP-0-polid-895-state-19,Jill Stein,Stein,False,Grn,AP-0,President,,,LA,,0,0.0,0,3805,0.0,False,0
+AP-0-polid-167861-state-19,Peter Sonski,Sonski,False,ASP,AP-0,President,,,LA,,0,0.0,0,3805,0.0,False,0
+AP-0-polid-167894-state-19,Mattie Preston,Preston,False,Oth,AP-0,President,,,LA,,0,0.0,0,3805,0.0,False,0
+AP-0-polid-167895-state-22,Shiva Ayyadurai,Ayyadurai,False,Ind,AP-0,President,,,MA,,0,0.0,0,2390,0.0,False,0
+AP-0-polid-64984-state-22,Kamala Harris,Harris,False,DFL,AP-0,President,,,MA,,0,0.0,0,2390,0.0,False,0
+AP-0-polid-69459-state-22,Chase Oliver,Oliver,False,Lib,AP-0,President,,,MA,,0,0.0,0,2390,0.0,False,0
+AP-0-polid-73180-state-22,Claudia De la Cruz,De la Cruz,False,PSL,AP-0,President,,,MA,,0,0.0,0,2390,0.0,False,0
+AP-0-polid-8639-state-22,Donald Trump,Trump,False,R,AP-0,President,,,MA,,0,0.0,0,2390,0.0,False,0
+AP-0-polid-895-state-22,Jill Stein,Stein,False,GRB,AP-0,President,,,MA,,0,0.0,0,2390,0.0,False,0
+AP-0-polid-64984-state-21,Kamala Harris,Harris,False,DFL,AP-0,President,,,MD,,0,0.0,0,1957,0.0,False,0
+AP-0-polid-69459-state-21,Chase Oliver,Oliver,False,Lib,AP-0,President,,,MD,,0,0.0,0,1957,0.0,False,0
+AP-0-polid-71841-state-21,Robert Kennedy,Kennedy,False,Una,AP-0,President,,,MD,,0,0.0,0,1957,0.0,False,0
+AP-0-polid-8639-state-21,Donald Trump,Trump,False,R,AP-0,President,,,MD,,0,0.0,0,1957,0.0,False,0
+AP-0-polid-895-state-21,Jill Stein,Stein,False,Grn,AP-0,President,,,MD,,0,0.0,0,1957,0.0,False,0
+AP-0-polid-64984-state-20,Kamala Harris,Harris,False,DFL,AP-0,President,,,ME,,0,0.0,0,575,0.0,False,0
+AP-0-polid-69459-state-20,Chase Oliver,Oliver,False,Lib,AP-0,President,,,ME,,0,0.0,0,575,0.0,False,0
+AP-0-polid-71845-state-20,Cornel West,West,False,JfA,AP-0,President,,,ME,,0,0.0,0,575,0.0,False,0
+AP-0-polid-8639-state-20,Donald Trump,Trump,False,R,AP-0,President,,,ME,,0,0.0,0,575,0.0,False,0
+AP-0-polid-895-state-20,Jill Stein,Stein,False,Mnt,AP-0,President,,,ME,,0,0.0,0,575,0.0,False,0
+AP-82970-polid-64984-state-20,Kamala Harris,Harris,False,DFL,AP-82970,President District 1,1,,ME,,0,0.0,0,154,0.0,False,0
+AP-82970-polid-69459-state-20,Chase Oliver,Oliver,False,Lib,AP-82970,President District 1,1,,ME,,0,0.0,0,154,0.0,False,0
+AP-82970-polid-71845-state-20,Cornel West,West,False,JfA,AP-82970,President District 1,1,,ME,,0,0.0,0,154,0.0,False,0
+AP-82970-polid-8639-state-20,Donald Trump,Trump,False,R,AP-82970,President District 1,1,,ME,,0,0.0,0,154,0.0,False,0
+AP-82970-polid-895-state-20,Jill Stein,Stein,False,Mnt,AP-82970,President District 1,1,,ME,,0,0.0,0,154,0.0,False,0
+AP-82971-polid-64984-state-20,Kamala Harris,Harris,False,DFL,AP-82971,President District 2,2,,ME,,0,0.0,0,421,0.0,False,0
+AP-82971-polid-69459-state-20,Chase Oliver,Oliver,False,Lib,AP-82971,President District 2,2,,ME,,0,0.0,0,421,0.0,False,0
+AP-82971-polid-71845-state-20,Cornel West,West,False,JfA,AP-82971,President District 2,2,,ME,,0,0.0,0,421,0.0,False,0
+AP-82971-polid-8639-state-20,Donald Trump,Trump,False,R,AP-82971,President District 2,2,,ME,,0,0.0,0,421,0.0,False,0
+AP-82971-polid-895-state-20,Jill Stein,Stein,False,Mnt,AP-82971,President District 2,2,,ME,,0,0.0,0,421,0.0,False,0
+AP-0-polid-64984-state-23,Kamala Harris,Harris,False,DFL,AP-0,President,,,MI,,0,0.0,0,4528,0.0,False,0
+AP-0-polid-69442-state-23,Joseph Kishore,Kishore,False,NPA,AP-0,President,,,MI,,0,0.0,0,4528,0.0,False,0
+AP-0-polid-69459-state-23,Chase Oliver,Oliver,False,Lib,AP-0,President,,,MI,,0,0.0,0,4528,0.0,False,0
+AP-0-polid-71841-state-23,Robert Kennedy,Kennedy,False,NLP,AP-0,President,,,MI,,0,0.0,0,4528,0.0,False,0
+AP-0-polid-71845-state-23,Cornel West,West,False,NPA,AP-0,President,,,MI,,0,0.0,0,4528,0.0,False,0
+AP-0-polid-8639-state-23,Donald Trump,Trump,False,R,AP-0,President,,,MI,,0,0.0,0,4528,0.0,False,0
+AP-0-polid-895-state-23,Jill Stein,Stein,False,Grn,AP-0,President,,,MI,,0,0.0,0,4528,0.0,False,0
+AP-0-polid-167760-state-24,Rachele Fruit,Fruit,False,SWP,AP-0,President,,,MN,,0,0.0,0,4102,0.0,False,0
+AP-0-polid-167895-state-24,Shiva Ayyadurai,Ayyadurai,False,Ind,AP-0,President,,,MN,,0,0.0,0,4102,0.0,False,0
+AP-0-polid-64984-state-24,Kamala Harris,Harris,False,DFL,AP-0,President,,,MN,,0,0.0,0,4102,0.0,False,0
+AP-0-polid-69459-state-24,Chase Oliver,Oliver,False,Lib,AP-0,President,,,MN,,0,0.0,0,4102,0.0,False,0
+AP-0-polid-71841-state-24,Robert Kennedy,Kennedy,False,WTP,AP-0,President,,,MN,,0,0.0,0,4102,0.0,False,0
+AP-0-polid-71845-state-24,Cornel West,West,False,JfA,AP-0,President,,,MN,,0,0.0,0,4102,0.0,False,0
+AP-0-polid-73180-state-24,Claudia De la Cruz,De la Cruz,False,PSL,AP-0,President,,,MN,,0,0.0,0,4102,0.0,False,0
+AP-0-polid-8639-state-24,Donald Trump,Trump,False,R,AP-0,President,,,MN,,0,0.0,0,4102,0.0,False,0
+AP-0-polid-895-state-24,Jill Stein,Stein,False,Grn,AP-0,President,,,MN,,0,0.0,0,4102,0.0,False,0
+AP-0-polid-64984-state-26,Kamala Harris,Harris,False,DFL,AP-0,President,,,MO,,0,0.0,0,3566,0.0,False,0
+AP-0-polid-69459-state-26,Chase Oliver,Oliver,False,Lib,AP-0,President,,,MO,,0,0.0,0,3566,0.0,False,0
+AP-0-polid-8639-state-26,Donald Trump,Trump,False,R,AP-0,President,,,MO,,0,0.0,0,3566,0.0,False,0
+AP-0-polid-895-state-26,Jill Stein,Stein,False,Grn,AP-0,President,,,MO,,0,0.0,0,3566,0.0,False,0
+AP-0-polid-167861-state-25,Peter Sonski,Sonski,False,Ind,AP-0,President,,,MS,,0,0.0,0,1760,0.0,False,0
+AP-0-polid-167895-state-25,Shiva Ayyadurai,Ayyadurai,False,Ind,AP-0,President,,,MS,,0,0.0,0,1760,0.0,False,0
+AP-0-polid-61513-state-25,Randall Terry,Terry,False,CST,AP-0,President,,,MS,,0,0.0,0,1760,0.0,False,0
+AP-0-polid-64984-state-25,Kamala Harris,Harris,False,DFL,AP-0,President,,,MS,,0,0.0,0,1760,0.0,False,0
+AP-0-polid-69459-state-25,Chase Oliver,Oliver,False,Lib,AP-0,President,,,MS,,0,0.0,0,1760,0.0,False,0
+AP-0-polid-71841-state-25,Robert Kennedy,Kennedy,False,Ind,AP-0,President,,,MS,,0,0.0,0,1760,0.0,False,0
+AP-0-polid-73180-state-25,Claudia De la Cruz,De la Cruz,False,Ind,AP-0,President,,,MS,,0,0.0,0,1760,0.0,False,0
+AP-0-polid-8639-state-25,Donald Trump,Trump,False,R,AP-0,President,,,MS,,0,0.0,0,1760,0.0,False,0
+AP-0-polid-895-state-25,Jill Stein,Stein,False,Grn,AP-0,President,,,MS,,0,0.0,0,1760,0.0,False,0
+AP-0-polid-64984-state-27,Kamala Harris,Harris,False,DFL,AP-0,President,,,MT,,0,0.0,0,728,0.0,False,0
+AP-0-polid-69459-state-27,Chase Oliver,Oliver,False,Lib,AP-0,President,,,MT,,0,0.0,0,728,0.0,False,0
+AP-0-polid-71841-state-27,Robert Kennedy,Kennedy,False,WTP,AP-0,President,,,MT,,0,0.0,0,728,0.0,False,0
+AP-0-polid-8639-state-27,Donald Trump,Trump,False,R,AP-0,President,,,MT,,0,0.0,0,728,0.0,False,0
+AP-0-polid-895-state-27,Jill Stein,Stein,False,Grn,AP-0,President,,,MT,,0,0.0,0,728,0.0,False,0
+AP-0-polid-61513-state-34,Randall Terry,Terry,False,CST,AP-0,President,,,NC,,0,0.0,0,2661,0.0,False,0
+AP-0-polid-64984-state-34,Kamala Harris,Harris,False,DFL,AP-0,President,,,NC,,0,0.0,0,2661,0.0,False,0
+AP-0-polid-69459-state-34,Chase Oliver,Oliver,False,Lib,AP-0,President,,,NC,,0,0.0,0,2661,0.0,False,0
+AP-0-polid-71845-state-34,Cornel West,West,False,JfA,AP-0,President,,,NC,,0,0.0,0,2661,0.0,False,0
+AP-0-polid-8639-state-34,Donald Trump,Trump,False,R,AP-0,President,,,NC,,0,0.0,0,2661,0.0,False,0
+AP-0-polid-895-state-34,Jill Stein,Stein,False,Grn,AP-0,President,,,NC,,0,0.0,0,2661,0.0,False,0
+AP-0-polid-64984-state-35,Kamala Harris,Harris,False,DFL,AP-0,President,,,ND,,0,0.0,0,385,0.0,False,0
+AP-0-polid-69459-state-35,Chase Oliver,Oliver,False,Lib,AP-0,President,,,ND,,0,0.0,0,385,0.0,False,0
+AP-0-polid-8639-state-35,Donald Trump,Trump,False,R,AP-0,President,,,ND,,0,0.0,0,385,0.0,False,0
+AP-82967-polid-64984-state-28,Kamala Harris,Harris,False,DFL,AP-82967,President District 2,2,,NE,,0,0.0,0,276,0.0,False,0
+AP-82967-polid-69459-state-28,Chase Oliver,Oliver,False,Lib,AP-82967,President District 2,2,,NE,,0,0.0,0,276,0.0,False,0
+AP-82967-polid-71845-state-28,Cornel West,West,False,LMN,AP-82967,President District 2,2,,NE,,0,0.0,0,276,0.0,False,0
+AP-82967-polid-8639-state-28,Donald Trump,Trump,False,R,AP-82967,President District 2,2,,NE,,0,0.0,0,276,0.0,False,0
+AP-82967-polid-895-state-28,Jill Stein,Stein,False,NP,AP-82967,President District 2,2,,NE,,0,0.0,0,276,0.0,False,0
+AP-0-polid-64984-state-28,Kamala Harris,Harris,False,DFL,AP-0,President,,,NE,,0,0.0,0,1326,0.0,False,0
+AP-0-polid-69459-state-28,Chase Oliver,Oliver,False,Lib,AP-0,President,,,NE,,0,0.0,0,1326,0.0,False,0
+AP-0-polid-71845-state-28,Cornel West,West,False,LMN,AP-0,President,,,NE,,0,0.0,0,1326,0.0,False,0
+AP-0-polid-8639-state-28,Donald Trump,Trump,False,R,AP-0,President,,,NE,,0,0.0,0,1326,0.0,False,0
+AP-0-polid-895-state-28,Jill Stein,Stein,False,NP,AP-0,President,,,NE,,0,0.0,0,1326,0.0,False,0
+AP-82968-polid-64984-state-28,Kamala Harris,Harris,False,DFL,AP-82968,President District 3,3,,NE,,0,0.0,0,636,0.0,False,0
+AP-82968-polid-69459-state-28,Chase Oliver,Oliver,False,Lib,AP-82968,President District 3,3,,NE,,0,0.0,0,636,0.0,False,0
+AP-82968-polid-71845-state-28,Cornel West,West,False,LMN,AP-82968,President District 3,3,,NE,,0,0.0,0,636,0.0,False,0
+AP-82968-polid-8639-state-28,Donald Trump,Trump,False,R,AP-82968,President District 3,3,,NE,,0,0.0,0,636,0.0,False,0
+AP-82968-polid-895-state-28,Jill Stein,Stein,False,NP,AP-82968,President District 3,3,,NE,,0,0.0,0,636,0.0,False,0
+AP-82966-polid-64984-state-28,Kamala Harris,Harris,False,DFL,AP-82966,President District 1,1,,NE,,0,0.0,0,414,0.0,False,0
+AP-82966-polid-69459-state-28,Chase Oliver,Oliver,False,Lib,AP-82966,President District 1,1,,NE,,0,0.0,0,414,0.0,False,0
+AP-82966-polid-71845-state-28,Cornel West,West,False,LMN,AP-82966,President District 1,1,,NE,,0,0.0,0,414,0.0,False,0
+AP-82966-polid-8639-state-28,Donald Trump,Trump,False,R,AP-82966,President District 1,1,,NE,,0,0.0,0,414,0.0,False,0
+AP-82966-polid-895-state-28,Jill Stein,Stein,False,NP,AP-82966,President District 1,1,,NE,,0,0.0,0,414,0.0,False,0
+AP-0-polid-64984-state-30,Kamala Harris,Harris,False,DFL,AP-0,President,,,NH,,0,0.0,0,319,0.0,False,0
+AP-0-polid-69459-state-30,Chase Oliver,Oliver,False,Lib,AP-0,President,,,NH,,0,0.0,0,319,0.0,False,0
+AP-0-polid-8639-state-30,Donald Trump,Trump,False,R,AP-0,President,,,NH,,0,0.0,0,319,0.0,False,0
+AP-0-polid-895-state-30,Jill Stein,Stein,False,Grn,AP-0,President,,,NH,,0,0.0,0,319,0.0,False,0
+AP-0-polid-167760-state-31,Rachele Fruit,Fruit,False,Ind,AP-0,President,,,NJ,,0,0.0,0,6393,0.0,False,0
+AP-0-polid-61513-state-31,Randall Terry,Terry,False,Ind,AP-0,President,,,NJ,,0,0.0,0,6393,0.0,False,0
+AP-0-polid-64984-state-31,Kamala Harris,Harris,False,DFL,AP-0,President,,,NJ,,0,0.0,0,6393,0.0,False,0
+AP-0-polid-69442-state-31,Joseph Kishore,Kishore,False,Ind,AP-0,President,,,NJ,,0,0.0,0,6393,0.0,False,0
+AP-0-polid-69459-state-31,Chase Oliver,Oliver,False,Ind,AP-0,President,,,NJ,,0,0.0,0,6393,0.0,False,0
+AP-0-polid-71841-state-31,Robert Kennedy,Kennedy,False,Ind,AP-0,President,,,NJ,,0,0.0,0,6393,0.0,False,0
+AP-0-polid-73180-state-31,Claudia De la Cruz,De la Cruz,False,Ind,AP-0,President,,,NJ,,0,0.0,0,6393,0.0,False,0
+AP-0-polid-8639-state-31,Donald Trump,Trump,False,R,AP-0,President,,,NJ,,0,0.0,0,6393,0.0,False,0
+AP-0-polid-895-state-31,Jill Stein,Stein,False,Ind,AP-0,President,,,NJ,,0,0.0,0,6393,0.0,False,0
+AP-0-polid-64984-state-32,Kamala Harris,Harris,False,DFL,AP-0,President,,,NM,,0,0.0,0,2169,0.0,False,0
+AP-0-polid-69459-state-32,Chase Oliver,Oliver,False,Oth,AP-0,President,,,NM,,0,0.0,0,2169,0.0,False,0
+AP-0-polid-71841-state-32,Robert Kennedy,Kennedy,False,DTS,AP-0,President,,,NM,,0,0.0,0,2169,0.0,False,0
+AP-0-polid-73180-state-32,Claudia De la Cruz,De la Cruz,False,PSL,AP-0,President,,,NM,,0,0.0,0,2169,0.0,False,0
+AP-0-polid-8639-state-32,Donald Trump,Trump,False,R,AP-0,President,,,NM,,0,0.0,0,2169,0.0,False,0
+AP-0-polid-895-state-32,Jill Stein,Stein,False,Grn,AP-0,President,,,NM,,0,0.0,0,2169,0.0,False,0
+AP-0-polid-168010-state-32,Laura Ebke,Ebke,False,LPU,AP-0,President,,,NM,,0,0.0,0,2169,0.0,False,0
+AP-0-polid-100013-state-29, None of These Candidates,None of These Candidates,False,NPD,AP-0,President,,,NV,,0,0.0,0,1642,0.0,False,0
+AP-0-polid-64984-state-29,Kamala Harris,Harris,False,DFL,AP-0,President,,,NV,,0,0.0,0,1642,0.0,False,0
+AP-0-polid-69459-state-29,Chase Oliver,Oliver,False,Lib,AP-0,President,,,NV,,0,0.0,0,1642,0.0,False,0
+AP-0-polid-8639-state-29,Donald Trump,Trump,False,R,AP-0,President,,,NV,,0,0.0,0,1642,0.0,False,0
+AP-0-polid-167871-state-29,Joel Skousen,Skousen,False,IAP,AP-0,President,,,NV,,0,0.0,0,1642,0.0,False,0
+AP-0-polid-64984-state-33,Kamala Harris,Harris,False,DFL,AP-0,President,,,NY,,0,0.0,0,13848,0.0,False,0
+AP-0-polid-8639-state-33,Donald Trump,Trump,False,R,AP-0,President,,,NY,,0,0.0,0,13848,0.0,False,0
+AP-0-polid-167861-state-36,Peter Sonski,Sonski,False,Oth,AP-0,President,,,OH,,0,0.0,0,8964,0.0,False,0
+AP-0-polid-64984-state-36,Kamala Harris,Harris,False,DFL,AP-0,President,,,OH,,0,0.0,0,8964,0.0,False,0
+AP-0-polid-69459-state-36,Chase Oliver,Oliver,False,Lib,AP-0,President,,,OH,,0,0.0,0,8964,0.0,False,0
+AP-0-polid-8639-state-36,Donald Trump,Trump,False,R,AP-0,President,,,OH,,0,0.0,0,8964,0.0,False,0
+AP-0-polid-895-state-36,Jill Stein,Stein,False,Oth,AP-0,President,,,OH,,0,0.0,0,8964,0.0,False,0
+AP-0-polid-167862-state-36,Richard Duncan,Duncan,False,NPA,AP-0,President,,,OH,,0,0.0,0,8964,0.0,False,0
+AP-0-polid-167776-state-37,Chris Garrity,Garrity,False,Ind,AP-0,President,,,OK,,0,0.0,0,1984,0.0,False,0
+AP-0-polid-64984-state-37,Kamala Harris,Harris,False,DFL,AP-0,President,,,OK,,0,0.0,0,1984,0.0,False,0
+AP-0-polid-69459-state-37,Chase Oliver,Oliver,False,Lib,AP-0,President,,,OK,,0,0.0,0,1984,0.0,False,0
+AP-0-polid-71841-state-37,Robert Kennedy,Kennedy,False,Ind,AP-0,President,,,OK,,0,0.0,0,1984,0.0,False,0
+AP-0-polid-8639-state-37,Donald Trump,Trump,False,R,AP-0,President,,,OK,,0,0.0,0,1984,0.0,False,0
